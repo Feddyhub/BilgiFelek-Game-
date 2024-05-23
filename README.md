@@ -1,5 +1,5 @@
 # BilgiFelek-Game-
-## will be better (on process)
+## will be better (in process)
 it works 90 percent
 it has a little bit bug or smt (idk which one :)) array bounder exception...
 it should be set them (revelead words) as a ascending
